@@ -3,5 +3,5 @@
 On this page several tutorials for the [Gamebuino META](https://gamebuino.com/) will be collected.
 
 Tutorials:
-- [Firebuino port from Gamebuino Classic to META](https://github.com/makerSquirrel/gamebuinoTutorials/portFirebuinoTutorial)
+- [Firebuino port from Gamebuino Classic to META](portFirebuinoTutorial.md)
 
